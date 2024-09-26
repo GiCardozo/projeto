@@ -1,0 +1,23 @@
+header {
+    background-color: #4682B4;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-start;
+    color: #DCDCDC;
+}
+
+header>div.titulo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+section.corpo {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.esquerda {
+    background-color: #5F9EA0;
+}
